@@ -1,0 +1,1 @@
+1677583108075|0|rollback|connection 7|url jdbc:mariadb://localhost/concurrency?user=root&password=***&useUnicode=true&serverTimezone=UTC&characterEncoding=utf84&useSSL=false||
