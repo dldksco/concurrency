@@ -3,7 +3,7 @@
 
 ## Single Thread
 ```
-  @DisplayName("싱글 쓰레드일 때를 테스트한다")
+  @DisplayName("싱글쓰레드일 때를 테스트한다")
   @Test
   @Transactional
   void decreaseStockInSingle() {
